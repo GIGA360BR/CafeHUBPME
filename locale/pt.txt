@@ -1,0 +1,20 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Café HUB PME - 16 Julho 2021
+
+### Title
+tour.name = Café HUB PME
+
+## Media
+
+### Title
+panorama_D854B9F7_CB0A_8828_41D0_3F6B7BA50169.label = IMG_20210716_091434
+
+## Action
+
+### URL
+LinkBehaviour_DAB4E315_CB1F_99E8_41D6_661B3C301725.source = https://hubpme.com.br/cafe-hub-pme-ja-define-datas-para-julho-e-agosto-de-2021/
+LinkBehaviour_DD9E01A3_CB0D_F828_41C5_B0E775A2843A.source = https://www.ekobusinesspark.com.br/
